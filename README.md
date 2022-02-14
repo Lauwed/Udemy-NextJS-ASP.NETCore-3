@@ -1,1 +1,1 @@
-# Udemy-NextJS-ASP.NETCore-3
+# Udemy NextJS ASP.NET Core 3
